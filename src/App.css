@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+  display: flex; 
+  justify-content: space-around;
+}
+
+.form {
+  width: 150px;
+  height: 100px;
+  border: 1px solid black;
+  border-radius: 15px;
+  background-color: rgb(245, 239, 230);
+  border: none;
+}
+
+.textImport {
+  margin-top: 20px; 
+  width:  75%;
+  border-radius: 10px;
+}
+
+body {
+  background-color: pink;
+}
+
+.buttonClick {
+  margin-top: 30px;
+  margin: 20px;
+}
+
+.clickNow {
+  margin: 0px 20px 20px 20px;
+  font-size: 20px;
+  border-radius: 5px;
+}
